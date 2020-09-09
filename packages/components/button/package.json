@@ -1,5 +1,5 @@
 {
-  "name": "@checklyhq/button",
+  "name": "@my-components-library/button",
   "private": true,
   "version": "0.0.2",
   "description": "Button component",
@@ -7,5 +7,9 @@
   "module": "./src/index.js",
   "scripts": {
     "transpile": "vue-cli-service build --target lib ./src/index.js"
+  },
+  "repository": {
+    "url": "maxigimenez/vue-vercel-monorepo",
+    "directory": "packages/components/button"
   }
 }

@@ -8,7 +8,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import Button from '@my-components-library/button'
+import Button from '@components/button'
 
 export default {
   name: 'App',

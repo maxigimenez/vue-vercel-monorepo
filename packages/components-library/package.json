@@ -1,7 +1,5 @@
 {
   "name": "@company/components-library",
   "version": "0.0.1",
-  "scripts": {
-    "transpile": "vue-cli-service build --target lib ./src/**/*"
-  }
+  "main": "src/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "@checklyhq/button",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Button component",
+  "main": "./dist/index.js",
+  "module": "./src/index.js",
+  "scripts": {
+    "transpile": "vue-cli-service build --target lib ./src/index.js"
+  }
+}

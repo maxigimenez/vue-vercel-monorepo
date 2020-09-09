@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <Button>something!</Button>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
@@ -7,11 +8,13 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import Button from '@checklyhq/button'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    Button
   }
 }
 </script>

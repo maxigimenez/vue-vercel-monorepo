@@ -1,14 +1,11 @@
 {
   "name": "app",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
-  },
-  "dependencies": {
-    "@components/button": "^0.0.1"
   },
   "eslintConfig": {
     "root": true,

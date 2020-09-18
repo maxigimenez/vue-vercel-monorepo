@@ -1,6 +1,6 @@
 {
   "name": "@vue-vercel-monorepo/components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "transpile": "vue-cli-service build --target lib ./src/**/*"
   },
